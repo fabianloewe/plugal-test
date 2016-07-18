@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  plugal:
+    github: hyronx/plugal
+    commit: cbb007b2f8dceeef0d585882d0650b4caa11adb5
+
+  redis:
+    github: stefanwille/crystal-redis
+    version: 1.6.5
+

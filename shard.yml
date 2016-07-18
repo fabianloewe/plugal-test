@@ -1,0 +1,11 @@
+name: plugal-test
+version: 0.1.0
+
+authors:
+  - Fabian Loewe <hyronx@outlook.com>
+
+license: MIT
+
+dependencies:
+  plugal:
+    github: hyronx/plugal
